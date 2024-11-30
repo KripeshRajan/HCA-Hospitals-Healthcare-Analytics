@@ -32,7 +32,7 @@ This repository contains a PowerBI dashboard focusing on healthcare analytics, s
 ## File Structure
 
 - **`HCA Hospitals Healthcare Analytics.pbix`**: The Power BI file containing the dashboard design and data model.
-- **`Mobile sales data.xlsx`**: The raw dataset used to create the dashboard.
+- **`Inpatient, Outpatient`**: Foldes contaioning the raw dataset used to create the dashboard.
 - **`README.md`**: This documentation file.
 - **`Healthcare-DAX Queries Used.docx`**: DAX Queries Used.
 - **` health1.jpg, health2.jpg`**: Preview of the Dashboard for quick reference.
